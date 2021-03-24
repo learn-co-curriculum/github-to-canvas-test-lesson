@@ -48,3 +48,4 @@ The following steps are required for getting this set up:
 
 The `github-to-canvas` gem names Canvas lessons based on the top-level header inside the `README.md` file (i.e. `# Test Lesson`). If you are updating an existing lesson, it may be good to align the lesson title with the GitHub `README.md` header. If you are updating a Canvas page, make sure `.canvas` has an id that matches the sluggified Canvas title. If the lesson and `README.md` titles are not the same, the lesson in Canvas will be given a new slugified title, which may not match what is in the `.canvas` file (and will cause issues for future workflows).
 
+
