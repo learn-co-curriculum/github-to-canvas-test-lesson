@@ -4,7 +4,7 @@ name: Sync with Canvas
 
 on:
   push:
-    branches: [master]
+    branches: [master, main]
     paths:
       - "README.md"
 
