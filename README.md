@@ -2,6 +2,7 @@
 
 ## Info
 
+
 This is a test lesson you can use to practice the `github-to-canvas` gem.
 
 ## Setting Up GitHub Actions Workflow
